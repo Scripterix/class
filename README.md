@@ -1,3 +1,4 @@
 # class
 JavaScript Class with constructor
-:bookmark: Exercise
+:bookmark: Object Prototypes
+✔️ Finished
